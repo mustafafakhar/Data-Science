@@ -6,4 +6,4 @@ def translate(word):
 
 word = input("Enter word here")
 output = translate(word)
-
+print(output)
