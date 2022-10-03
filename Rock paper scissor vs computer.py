@@ -27,8 +27,6 @@ def get_winner(p1,p2):
     else:
        return "Computer player win!"
     
-
+print ("You chose", p1)
+print ("Computer chose", p2)
 print (get_winner(p1,p2))
-
-  
-       
